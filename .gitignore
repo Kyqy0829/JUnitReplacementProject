@@ -1,0 +1,11 @@
+# 忽略编译输出目录
+out/
+docs/
+
+# 忽略 Java 编译文件
+*.class
+
+# 忽略 IDE 配置文件（可选）
+*.iml
+.idea/
+.vscode/
